@@ -1,0 +1,10 @@
+﻿<Properties StartupConfiguration="{4A7083B4-63E6-A6DD-986B-FD2717B5E1EF}|">
+  <MonoDevelop.Ide.ItemProperties.Unity.ML-Agents PreferredExecutionTarget="e73fa5d2-22a1-4a55-9b47-db58846c0c01" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

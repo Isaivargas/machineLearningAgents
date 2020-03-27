@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.ML-Agents.CommunicatorObjects", "Unity.ML-Agents.CommunicatorObjects.csproj", "{5E99CD50-32B2-B8C4-1C9D-B86BF4F661BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.ML-Agents", "Unity.ML-Agents.csproj", "{4A7083B4-63E6-A6DD-986B-FD2717B5E1EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.ML-Agents.Editor", "Unity.ML-Agents.Editor.csproj", "{FA0D6F8A-663E-6183-CCD4-DAEFD1AC685E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E99CD50-32B2-B8C4-1C9D-B86BF4F661BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E99CD50-32B2-B8C4-1C9D-B86BF4F661BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E99CD50-32B2-B8C4-1C9D-B86BF4F661BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E99CD50-32B2-B8C4-1C9D-B86BF4F661BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A7083B4-63E6-A6DD-986B-FD2717B5E1EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A7083B4-63E6-A6DD-986B-FD2717B5E1EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A7083B4-63E6-A6DD-986B-FD2717B5E1EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A7083B4-63E6-A6DD-986B-FD2717B5E1EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA0D6F8A-663E-6183-CCD4-DAEFD1AC685E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA0D6F8A-663E-6183-CCD4-DAEFD1AC685E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA0D6F8A-663E-6183-CCD4-DAEFD1AC685E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA0D6F8A-663E-6183-CCD4-DAEFD1AC685E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
